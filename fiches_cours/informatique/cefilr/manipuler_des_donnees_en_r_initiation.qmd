@@ -1,0 +1,12 @@
+
+---
+title: "CefilR : Manipuler des données en R : initiation"
+---
+
+
+- **Description** : Ce chapitre fait suite au premier chapitre de la formation CefilR qui introduisait le parcours et permettait de découvrir R et Rstudio. Nous allons maintenant aborder la sélection d’individus et de caractères selon différents critères. L’objectif est de préparer ses données, avant de procéder à leur enrichissement et leur analyse, qui seront vu prochainement.
+Le chapitre 2 est composé de 4 séquences chacune d’entre elles comportant un cours, des exercices, un QCM consultables en ligne et des fichiers à télécharger disponibles dans le zip ci-dessous pour certaines séquences.
+Ces fichiers vous seront présentés au fur et à mesure.
+Vous pourrez enregistrer ces fichiers de données sous l’arborescence qui vous est proposée en vidéo d’introduction du parcours.
+- **Niveau** : 1
+- **Durée** : 08:00:00

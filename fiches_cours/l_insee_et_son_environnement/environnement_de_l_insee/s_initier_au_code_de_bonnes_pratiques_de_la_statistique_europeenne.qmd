@@ -1,0 +1,9 @@
+
+---
+title: "Environnement de l'Insee : S'initier au code de bonnes pratiques de la statistique européenne"
+---
+
+
+- **Description** : Le code de bonnes pratiques de la statistique européenne constitue un cadre de référence essentiel pour garantir la qualité, l'indépendance et l'intégrité des statistiques produites au sein de l'Union européenne. Vous découvrirez à travers ce module les principes qui sous-tendent l'élaboration et la diffusion des données statistiques publiques en Europe, ainsi que leur importance pour la transparence et la confiance des utilisateurs.
+- **Niveau** : 1
+- **Durée** : 01:00:00

@@ -1,0 +1,9 @@
+
+---
+title: "Economie : Faire ses premiers pas en macroéconomie"
+---
+
+
+- **Description** : Dans ce cours, suivez le druide Cefix et son assistant Apprentix, à la découverte des agents économiques, des différentes approches du PIB et de la croissance du petit village des irréductibles gaulois de Liburnia.
+- **Niveau** : 1
+- **Durée** : 02:00:00

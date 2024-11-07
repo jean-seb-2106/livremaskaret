@@ -1,0 +1,9 @@
+
+---
+title: " : Quiz d'évaluation de la formation des B2"
+---
+
+
+- **Description** : QCM de 50 questions pour evaluer les compétences à l'issue de la formation des B2
+- **Niveau** : 1
+- **Durée** : 00:00:00

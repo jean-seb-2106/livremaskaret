@@ -1,0 +1,9 @@
+
+---
+title: " : Conduire un projet et assurer la maintenance"
+---
+
+
+- **Description** : Ce cours est conçu pour les chefs de projet souhaitant acquérir une vision claire et complète des étapes clés d’un projet, de sa conception à sa mise en production. Vous apprendrez à identifier ce qui constitue un projet, à en distinguer les phases, ainsi qu’à reconnaître les différents acteurs impliqués et les livrables attendus à chaque étape. Ce module vous permettra de maîtriser l’organisation et la coordination d’un projet tout en vous guidant vers une gestion efficace jusqu’à sa finalisation.
+- **Niveau** : 1
+- **Durée** : 01:00:00

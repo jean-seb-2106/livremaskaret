@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Créer rapidement un diaporama avec Impress"
+---
+
+
+- **Description** : Ce cours est composé de deux didacticiels. Le premier vous montrera comment créer rapidement un diaporama à partir d'un document Writer structuré, en exploitant les styles et sections du texte pour générer automatiquement des diapositives. Le second didacticiel vous guidera dans la conception d'un diaporama à partir d'un modèle prédéfini, en respectant la charte éditoriale de l'Insee, afin de garantir la cohérence visuelle et professionnelle de vos présentations. Ce cours vous permettra de concevoir des présentations efficaces et en accord avec les standards institutionnels. 
+- **Niveau** : 1
+- **Durée** : 01:30:00

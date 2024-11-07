@@ -1,0 +1,9 @@
+
+---
+title: "Insee : Découvrir les métiers de l'Insee"
+---
+
+
+- **Description** : Ce cours propose une présentation des métiers de l'Insee, en s'appuyant sur un référentiel structuré : la grille des métiers. Les métiers y sont classés selon les différentes fonctions de l'institut, permettant d'explorer la diversité des expertises qui contribuent à ses missions. Ce cours vous permettra d'avoir une vue d'ensemble des compétences et rôles au sein de l'Insee et comment ces métiers s'intègrent dans la "ville" Insee.
+- **Niveau** : 1
+- **Durée** : 03:00:00

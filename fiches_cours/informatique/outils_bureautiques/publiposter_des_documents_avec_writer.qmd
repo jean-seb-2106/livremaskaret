@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Publiposter des documents avec Writer"
+---
+
+
+- **Description** : Ce cours, composé de didacticiels vidéo, vous guidera dans l'apprentissage du publipostage pour automatiser l'envoi de courriers personnalisés et la création d'étiquettes. Vous y découvrirez comment créer un document maître, lier une base de données, et personnaliser chaque envoi avec les informations spécifiques à vos destinataires. Que ce soit pour des lettres ou des étiquettes, ce cours vous permettra de maîtriser l'ensemble du processus de publipostage, vous faisant gagner du temps tout en améliorant la précision de vos correspondances. 
+- **Niveau** : 2
+- **Durée** : 02:00:00

@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Mettre en forme un tableau avec Calc"
+---
+
+
+- **Description** : Ce cours, sous la forme d’un didacticiel, vous montre comment mettre en forme vos tableaux Calc, pour qu’ils soient plus clairs et professionnels. Vous découvrirez comment personnaliser l'apparence des cellules : le texte, les couleurs de fond, et les bordures. Vous apprendrez également à ajuster la largeur des colonnes et la hauteur des lignes pour un affichage optimal, à fusionner des cellules pour une meilleure organisation visuelle…  Le didacticiel vous permet de visionner les différentes manipulations à faire pour mettre en forme un tableau.
+- **Niveau** : 2
+- **Durée** : 02:00:00

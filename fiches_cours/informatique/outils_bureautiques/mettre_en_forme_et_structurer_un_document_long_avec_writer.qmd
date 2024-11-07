@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Mettre en forme et structurer un document long avec Writer"
+---
+
+
+- **Description** : Ce cours, composé de didacticiels vidéos, vous apprendra à maîtriser la mise en forme et la structuration de vos documents. Vous y découvrirez l'utilisation des styles pour un formatage cohérent, la création et la personnalisation d'un sommaire automatique, ainsi que la conception de vos propres modèles de documents. En plus de cela, vous apprendrez à insérer des listes à puces, des images et des graphiques, et à gérer efficacement les en-têtes et pieds de page. Ce cours vous permettra de produire des documents bien organisés et visuellement attrayants. 
+- **Niveau** : 2
+- **Durée** : 10:00:00

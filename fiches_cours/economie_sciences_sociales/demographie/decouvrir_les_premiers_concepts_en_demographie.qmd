@@ -1,0 +1,9 @@
+
+---
+title: "Démographie : Découvrir les premiers concepts en démographie"
+---
+
+
+- **Description** : Dans ce cours d'initiation à la démographie, vous suivrez les aventures de Micra la fourmi pour découvrir les bases de cette science. Le cours définit la démographie et vous aide à distinguer le stock et le flux de population. Ensuite, il examine en détail la natalité et la mortalité, deux facteurs essentiels d’évolution de la population. En suivant l'évolution de la colonie de fourmis à laquelle appartient Micra, vous comprendrez comment ces concepts s’appliquent concrètement à la dynamique des populations.
+- **Niveau** : 1
+- **Durée** : 02:00:00

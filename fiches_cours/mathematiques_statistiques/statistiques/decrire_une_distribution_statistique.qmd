@@ -1,0 +1,9 @@
+
+---
+title: "Statistiques : Décrire une distribution statistique"
+---
+
+
+- **Description** : Ce cours explore les principaux indicateurs utilisés pour décrire une distribution statistique. Il permet aux étudiants de se familiariser avec les indicateurs de tendance centrale (comme la moyenne, la médiane et le mode), les indicateurs de dispersion (tels que l’étendue, la variance et l’écart-type), ainsi que les indicateurs de concentration (comme les quartiles et le coefficient de Gini). À travers des exemples pratiques sur des jeux de données, les apprenants développeront des compétences pour calculer, interpréter et comparer ces indicateurs dans différents contextes. Ce cours vise à donner une compréhension approfondie des caractéristiques d’une distribution statistique, et à fournir aux étudiants les outils nécessaires pour analyser des données quantitatives de manière rigoureuse.
+- **Niveau** : 1
+- **Durée** : 04:00:00

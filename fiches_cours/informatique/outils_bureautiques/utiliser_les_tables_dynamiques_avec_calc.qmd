@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Utiliser les tables dynamiques avec Calc"
+---
+
+
+- **Description** : Ce cours vous guidera dans l'utilisation des tables dynamiques, un outil puissant pour analyser et résumer des volumes importants de données. Vous apprendrez à créer des tables dynamiques à partir de vos feuilles de calcul, à organiser et filtrer vos informations selon différents critères. Nous verrons également comment regrouper des données, calculer des sous-totaux automatiques, et produire des tableaux croisés pour comparer des données selon plusieurs dimensions. Le cours est structuré en plusieurs didacticiels, chacun se concentrant sur une fonctionnalité précise des tables dynamiques, pour vous permettre de maîtriser chaque aspect à votre rythme. 
+- **Niveau** : 3
+- **Durée** : 05:00:00

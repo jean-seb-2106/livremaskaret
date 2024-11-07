@@ -1,0 +1,9 @@
+
+---
+title: "Insee : Visiter la ville Insee"
+---
+
+
+- **Description** : Ce cours propose une exploration de l'Insee à travers une métaphore urbaine, en représentant l'institut comme une ville. Les différents "quartiers" et les rues associées symbolisent les principales fonctions et missions de l'Insee. Vous découvrirez l'organisation territoriale de l'institut et comprendrez comment ses différentes composantes sont reliées pour contribuer à ses objectifs.
+- **Niveau** : 1
+- **Durée** : 03:00:00

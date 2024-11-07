@@ -1,0 +1,9 @@
+
+---
+title: "Environnement de l'Insee : Connaître les droits et devoirs du fonctionnaire"
+---
+
+
+- **Description** : Ce cours vous propose une exploration approfondie des droits et devoirs des fonctionnaires en France, en se basant sur les textes législatifs qui encadrent la fonction publique. Vous découvrirez les obligations auxquelles tout fonctionnaire est soumis, ainsi que les droits qui lui sont garantis tout au long de sa carrière. Ce module vous aidera à comprendre les principes fondamentaux qui gouvernent l’action des agents publics et leur engagement envers l’État et les citoyens.
+- **Niveau** : 1
+- **Durée** : 01:00:00

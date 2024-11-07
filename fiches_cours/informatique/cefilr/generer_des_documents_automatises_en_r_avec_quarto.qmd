@@ -1,0 +1,9 @@
+
+---
+title: "CefilR : Générer des documents automatisés en R avec Quarto"
+---
+
+
+- **Description** : 
+- **Niveau** : 3
+- **Durée** : 00:00:00

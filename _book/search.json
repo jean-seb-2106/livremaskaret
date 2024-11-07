@@ -1,0 +1,375 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalogue des e-formations sur Maskaret",
+    "section": "",
+    "text": "Préface\nCe document recense toutes les e-formations hébergées sur MasKaret, classées par catégories.",
+    "crumbs": [
+      "Préface"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/mathematiques_statistiques/mathematiques/revoir_les_fondamentaux_en_mathematiques.html",
+    "href": "fiches_cours/mathematiques_statistiques/mathematiques/revoir_les_fondamentaux_en_mathematiques.html",
+    "title": "1  Mathématiques : Revoir les fondamentaux en mathématiques",
+    "section": "",
+    "text": "Description : Ce cours propose une révision des principales opérations mathématiques (addition, soustraction, multiplication, et division), ainsi qu’une introduction aux pourcentages et aux indicateurs d’évolution. Vous apprendrez à manipuler les pourcentages pour résoudre des problèmes concrets, à calculer les multiplicateurs, les taux de variation, les variations absolues, et à déterminer le taux de variation annuel moyen. À travers des exemples et des exercices interactifs, ce cours vise à fournir des compétences fondamentales pour comprendre et appliquer ces notions dans divers contextes professionnels, notamment en analyse économique ou statistique.\nNiveau : 1\nDurée : 04:00:00",
+    "crumbs": [
+      "Mathématiques & Statistiques",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Mathématiques : Revoir les fondamentaux en mathématiques</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/mathematiques_statistiques/mathematiques/denombrer_et_calculer_des_probabilites.html",
+    "href": "fiches_cours/mathematiques_statistiques/mathematiques/denombrer_et_calculer_des_probabilites.html",
+    "title": "2  Mathématiques : Dénombrer et calculer des probabilités",
+    "section": "",
+    "text": "Description : Ce cours est conçu pour offrir une introduction approfondie aux probabilités et à leurs applications, à travers cinq modules clés. Le premier module aborde le dénombrement, permettant aux étudiants de maîtriser les principes de base pour énumérer les résultats possibles d’une expérience aléatoire. Le second module se concentre sur le calcul des probabilités, en présentant les règles fondamentales et les techniques de calcul. Le troisième module explore les variables aléatoires, leur définition, leur utilisation, ainsi que les espérances et variances associées. Le quatrième module s’intéresse aux lois discrètes de probabilité (comme la loi binomiale et la loi de Poisson), et le dernier module est dédié à la loi normale, avec une introduction au théorème central limite, un concept clé pour la statistique inférentielle. Ce module final permet de comprendre comment la loi normale joue un rôle fondamental dans l’analyse des échantillons et dans la transition vers l’inférence statistique.\nNiveau : 2\nDurée : 06:00:00",
+    "crumbs": [
+      "Mathématiques & Statistiques",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathématiques : Dénombrer et calculer des probabilités</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/mathematiques_statistiques/statistiques/decouvrir_la_statistique_descriptive.html",
+    "href": "fiches_cours/mathematiques_statistiques/statistiques/decouvrir_la_statistique_descriptive.html",
+    "title": "3  Statistiques : Découvrir la statistique descriptive",
+    "section": "",
+    "text": "Description : Ce cours offre une introduction aux concepts fondamentaux de la statistique descriptive. Destiné aux débutants, il donne une méthode pour lire un tableau statistique et il permet de se familiariser avec le vocabulaire statistique de base (comme les variables, les populations), ainsi qu’avec des techniques essentielles pour organiser et résumer des données. Ce cours est conçu pour fournir aux participants des compétences essentielles pour comprendre et analyser des données quantitatives, et constitue une base solide pour aller plus loin en statistiques.\nNiveau : 1\nDurée : 04:00:00",
+    "crumbs": [
+      "Mathématiques & Statistiques",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Statistiques : Découvrir la statistique descriptive</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/mathematiques_statistiques/statistiques/decrire_une_distribution_statistique.html",
+    "href": "fiches_cours/mathematiques_statistiques/statistiques/decrire_une_distribution_statistique.html",
+    "title": "4  Statistiques : Décrire une distribution statistique",
+    "section": "",
+    "text": "Description : Ce cours explore les principaux indicateurs utilisés pour décrire une distribution statistique. Il permet aux étudiants de se familiariser avec les indicateurs de tendance centrale (comme la moyenne, la médiane et le mode), les indicateurs de dispersion (tels que l’étendue, la variance et l’écart-type), ainsi que les indicateurs de concentration (comme les quartiles et le coefficient de Gini). À travers des exemples pratiques sur des jeux de données, les apprenants développeront des compétences pour calculer, interpréter et comparer ces indicateurs dans différents contextes. Ce cours vise à donner une compréhension approfondie des caractéristiques d’une distribution statistique, et à fournir aux étudiants les outils nécessaires pour analyser des données quantitatives de manière rigoureuse.\nNiveau : 1\nDurée : 04:00:00",
+    "crumbs": [
+      "Mathématiques & Statistiques",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Statistiques : Décrire une distribution statistique</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/mathematiques_statistiques/statistiques/mesurer_une_evolution_avec_les_indices.html",
+    "href": "fiches_cours/mathematiques_statistiques/statistiques/mesurer_une_evolution_avec_les_indices.html",
+    "title": "5  Statistiques : Mesurer une évolution avec les indices",
+    "section": "",
+    "text": "Description : Ce cours présente les concepts et l’utilisation des indices simples et synthétiques pour mesurer les évolutions économiques, en particulier les variations des prix. Les étudiants apprendront à calculer et interpréter des indices simples ainsi que des indices synthétiques, avec un focus sur des applications concrètes comme l’Indice des Prix à la Consommation (IPC).\nNiveau : 1\nDurée : 03:00:00",
+    "crumbs": [
+      "Mathématiques & Statistiques",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Statistiques : Mesurer une évolution avec les indices</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/mathematiques_statistiques/statistiques/decrire_et_mesurer_les_liens_entre_deux_variables.html",
+    "href": "fiches_cours/mathematiques_statistiques/statistiques/decrire_et_mesurer_les_liens_entre_deux_variables.html",
+    "title": "6  Statistiques : Décrire et mesurer les liens entre deux variables",
+    "section": "",
+    "text": "Description : Ce cours se concentre sur l’analyse des corrélations entre des variables prises deux à deux, en fonction de leur nature (quantitative ou qualitative). Structuré en trois modules distincts, il permet d’explorer les méthodes d’analyse des relations entre variables quantitatives, entre variables qualitatives, et entre une variable quantitative et une variable qualitative. Chaque module inclut des exemples concrets pour vous aider à comprendre les différentes techniques et à interpréter les résultats de manière précise. Ce cours est conçu pour donner une maîtrise pratique des outils de corrélation, indispensables dans l’analyse statistique.\nNiveau : 2\nDurée : 06:00:00",
+    "crumbs": [
+      "Mathématiques & Statistiques",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Statistiques : Décrire et mesurer les liens entre deux variables</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/cefilr/faire_ses_premiers_pas_en_r.html",
+    "href": "fiches_cours/informatique/cefilr/faire_ses_premiers_pas_en_r.html",
+    "title": "7  CefilR : Faire ses premiers pas en R",
+    "section": "",
+    "text": "Description : Ce chapitre introductif au parcours de formation cefilR vous permet de découvrir R et son environnement de développement utilisé principalement à l’Insee, Rstudio. Il est composé de six séquences, chacune d’entre elles comportant des vidéos, un cours, des exercices corrigés, un QCM. Vous pourrez enregistrer ces fichiers de données sous l’arborescence qui vous est proposée en vidéo d’introduction du parcours. Ce chapitre se termine par un point d’étape. C’est le point de départ du mini-projet, qui permet de valider vos acquis.\nNiveau : 1\nDurée : 12:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CefilR : Faire ses premiers pas en R</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/cefilr/manipuler_des_donnees_en_r_initiation.html",
+    "href": "fiches_cours/informatique/cefilr/manipuler_des_donnees_en_r_initiation.html",
+    "title": "8  CefilR : Manipuler des données en R : initiation",
+    "section": "",
+    "text": "Description : Ce chapitre fait suite au premier chapitre de la formation CefilR qui introduisait le parcours et permettait de découvrir R et Rstudio. Nous allons maintenant aborder la sélection d’individus et de caractères selon différents critères. L’objectif est de préparer ses données, avant de procéder à leur enrichissement et leur analyse, qui seront vu prochainement. Le chapitre 2 est composé de 4 séquences chacune d’entre elles comportant un cours, des exercices, un QCM consultables en ligne et des fichiers à télécharger disponibles dans le zip ci-dessous pour certaines séquences. Ces fichiers vous seront présentés au fur et à mesure. Vous pourrez enregistrer ces fichiers de données sous l’arborescence qui vous est proposée en vidéo d’introduction du parcours.\nNiveau : 1\nDurée : 08:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CefilR : Manipuler des données en R : initiation</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/cefilr/manipuler_des_donnees_en_r_perfectionnement.html",
+    "href": "fiches_cours/informatique/cefilr/manipuler_des_donnees_en_r_perfectionnement.html",
+    "title": "9  CefilR : Manipuler des données en R : perfectionnement",
+    "section": "",
+    "text": "Description : Ce chapitre vous amène à la suite de la découverte de R, et plus particulièrement, du package dplyr que vous avez déjà utilisé dans le précédent chapitre. L’objectif est de traiter les données, les enrichir et de débuter l’analyse. Ce troisième chapitre est composé de 4 séquences avec cours, exercices corrigés et QCM consultables en ligne et des fichiers à télécharger disponibles dans le zip ci-dessous comme vous en avez maintenant l’habitude. N’oubliez pas d’enregistrer ces fichiers de données sous votre arborescence de travail comme cela vous est proposé dans la vidéo d’introduction du parcours.\nNiveau : 2\nDurée : 08:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CefilR : Manipuler des données en R : perfectionnement</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/cefilr/presenter_des_donnees_en_r.html",
+    "href": "fiches_cours/informatique/cefilr/presenter_des_donnees_en_r.html",
+    "title": "10  CefilR : Présenter des données en R",
+    "section": "",
+    "text": "Description : Ce chapitre introduit le concept de données ‘tidy’ où chaque colonne est une variable, chaque ligne une observation et chaque cellule est une valeur. Le package tidyr est présenté, tout d’abord pour traiter des jeux de données tabulés et incomplets, puis pour gérer la non-réponse et la mise à disposition de tableaux « larges ». Les deux dernières séquences sont consacrées au package gt, qui tend à devenir la référence concernant la production de tableaux statistiques mis en forme. L’objectif est de traiter les données afin de permettre de calculer de nouvelles variables et des indicateurs et de les analyser en vue de produire des tableaux de diffusion. Il est composé de cinq parties, chacune d’entre elles comportant un cours, des exercices corrigés et un QCM.\nNiveau : 2\nDurée : 10:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CefilR : Présenter des données en R</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/cefilr/realiser_des_graphiques_et_des_cartes_en_r.html",
+    "href": "fiches_cours/informatique/cefilr/realiser_des_graphiques_et_des_cartes_en_r.html",
+    "title": "11  CefilR : Réaliser des graphiques et des cartes en R",
+    "section": "",
+    "text": "Description : Ce chapitre est dédié à la création de graphiques avec le package ggplot2, un outil puissant et flexible pour la visualisation de données en R. ggplot2 permet de créer une variété de graphiques, allant des plus simples aux plus complexes, tout en offrant une grande liberté pour personnaliser chaque aspect de vos visualisations. Il est composé de 4 séquences, chacune d’entre elles comportant un cours, des exercices corrigés, un QCM. Vous pourrez enregistrer ces fichiers de données sous l’arborescence qui vous est proposée en vidéo d’introduction du parcours. Ce chapitre se termine par un point d’étape qui vous permet de continuer à réaliser votre mini-projet, en repartant de ce que vous avez fait au point d’étape précédent. \nNiveau : 3\nDurée : 08:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>CefilR : Réaliser des graphiques et des cartes en R</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/cefilr/generer_des_documents_automatises_en_r_avec_quarto.html",
+    "href": "fiches_cours/informatique/cefilr/generer_des_documents_automatises_en_r_avec_quarto.html",
+    "title": "12  CefilR : Générer des documents automatisés en R avec Quarto",
+    "section": "",
+    "text": "Description :\nNiveau : 3\nDurée : 00:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>CefilR : Générer des documents automatisés en R avec Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/debuter_avec_calc.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/debuter_avec_calc.html",
+    "title": "13  Outils bureautiques : Débuter avec Calc",
+    "section": "",
+    "text": "Description : Ce cours est spécialement conçu pour les étudiants qui n’ont jamais utilisé Calc, l’outil de tableur de la suite Libre Office. Le cours est structuré en trois parties distinctes, chacune introduisant progressivement des concepts fondamentaux tels que les menus, les classeurs, les feuilles et les cellules. Les didacticiels vous permettent de visionner les différentes manipulations pour activer une fonctionnalité et de les reproduire sur votre poste informatique. Vous serez ainsi en mesure de construire et gérer vos premières feuilles de calcul en toute autonomie.\nNiveau : 1\nDurée : 03:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Outils bureautiques : Débuter avec Calc</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/utiliser_calc_efficacement.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/utiliser_calc_efficacement.html",
+    "title": "14  Outils bureautiques : Utiliser Calc efficacement",
+    "section": "",
+    "text": "Description : Ce cours vous présente deux fonctionnalités très utiles pour améliorer votre productivité quand vous utilisez Calc : les références absolues et le collage spécial. Les rérérences absolues vous permettent d’éviter de faire des ajustements manuels quand vous utilisez des références dans des formules. Elles vous font gagner un temps précieux dans les feuilles de calculs complexes. Le collage spécial vous permet quant à lui de choisir précisément quels éléments vous souhaitez coller, plutôt que de copier-coller l’ensemble du contenu d’une cellule. Vous verrez plus précisément le collage spécial transposé vous permettant de changer l’orientation de vos données et le collage spécial lié qui permet de créer des liens dynamiques entre les cellules copiées et leur nouvelle destination.\nNiveau : 2\nDurée : 03:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Outils bureautiques : Utiliser Calc efficacement</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/mettre_en_forme_un_tableau_avec_calc.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/mettre_en_forme_un_tableau_avec_calc.html",
+    "title": "15  Outils bureautiques : Mettre en forme un tableau avec Calc",
+    "section": "",
+    "text": "Description : Ce cours, sous la forme d’un didacticiel, vous montre comment mettre en forme vos tableaux Calc, pour qu’ils soient plus clairs et professionnels. Vous découvrirez comment personnaliser l’apparence des cellules : le texte, les couleurs de fond, et les bordures. Vous apprendrez également à ajuster la largeur des colonnes et la hauteur des lignes pour un affichage optimal, à fusionner des cellules pour une meilleure organisation visuelle… Le didacticiel vous permet de visionner les différentes manipulations à faire pour mettre en forme un tableau.\nNiveau : 2\nDurée : 02:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Outils bureautiques : Mettre en forme un tableau avec Calc</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/utiliser_les_tables_dynamiques_avec_calc.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/utiliser_les_tables_dynamiques_avec_calc.html",
+    "title": "16  Outils bureautiques : Utiliser les tables dynamiques avec Calc",
+    "section": "",
+    "text": "Description : Ce cours vous guidera dans l’utilisation des tables dynamiques, un outil puissant pour analyser et résumer des volumes importants de données. Vous apprendrez à créer des tables dynamiques à partir de vos feuilles de calcul, à organiser et filtrer vos informations selon différents critères. Nous verrons également comment regrouper des données, calculer des sous-totaux automatiques, et produire des tableaux croisés pour comparer des données selon plusieurs dimensions. Le cours est structuré en plusieurs didacticiels, chacun se concentrant sur une fonctionnalité précise des tables dynamiques, pour vous permettre de maîtriser chaque aspect à votre rythme.\nNiveau : 3\nDurée : 05:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Outils bureautiques : Utiliser les tables dynamiques avec Calc</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/produire_des_graphiques_avec_calc.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/produire_des_graphiques_avec_calc.html",
+    "title": "17  Outils bureautiques : Produire des graphiques avec Calc",
+    "section": "",
+    "text": "Description : Ce cours vous apprend à visualiser vos données de manière efficace à travers trois types de graphiques : les diagrammes en barre, les diagrammes circulaires et les courbes. Vous découvrirez comment sélectionner vos données, choisir le type de graphique le plus adapté, et personnaliser l’apparence de vos graphiques pour une présentation claire et impactante. Que vous souhaitiez représenter des évolutions, des répartitions ou des comparaisons, ce cours vous fournira les compétences nécessaires pour transformer vos données en représentations visuelles pertinentes.\nNiveau : 3\nDurée : 03:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Outils bureautiques : Produire des graphiques avec Calc</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/creer_rapidement_un_diaporama_avec_impress.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/creer_rapidement_un_diaporama_avec_impress.html",
+    "title": "18  Outils bureautiques : Créer rapidement un diaporama avec Impress",
+    "section": "",
+    "text": "Description : Ce cours est composé de deux didacticiels. Le premier vous montrera comment créer rapidement un diaporama à partir d’un document Writer structuré, en exploitant les styles et sections du texte pour générer automatiquement des diapositives. Le second didacticiel vous guidera dans la conception d’un diaporama à partir d’un modèle prédéfini, en respectant la charte éditoriale de l’Insee, afin de garantir la cohérence visuelle et professionnelle de vos présentations. Ce cours vous permettra de concevoir des présentations efficaces et en accord avec les standards institutionnels.\nNiveau : 1\nDurée : 01:30:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Outils bureautiques : Créer rapidement un diaporama avec Impress</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/mettre_en_forme_et_structurer_un_document_long_avec_writer.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/mettre_en_forme_et_structurer_un_document_long_avec_writer.html",
+    "title": "19  Outils bureautiques : Mettre en forme et structurer un document long avec Writer",
+    "section": "",
+    "text": "Description : Ce cours, composé de didacticiels vidéos, vous apprendra à maîtriser la mise en forme et la structuration de vos documents. Vous y découvrirez l’utilisation des styles pour un formatage cohérent, la création et la personnalisation d’un sommaire automatique, ainsi que la conception de vos propres modèles de documents. En plus de cela, vous apprendrez à insérer des listes à puces, des images et des graphiques, et à gérer efficacement les en-têtes et pieds de page. Ce cours vous permettra de produire des documents bien organisés et visuellement attrayants.\nNiveau : 2\nDurée : 10:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Outils bureautiques : Mettre en forme et structurer un document long avec Writer</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_bureautiques/publiposter_des_documents_avec_writer.html",
+    "href": "fiches_cours/informatique/outils_bureautiques/publiposter_des_documents_avec_writer.html",
+    "title": "20  Outils bureautiques : Publiposter des documents avec Writer",
+    "section": "",
+    "text": "Description : Ce cours, composé de didacticiels vidéo, vous guidera dans l’apprentissage du publipostage pour automatiser l’envoi de courriers personnalisés et la création d’étiquettes. Vous y découvrirez comment créer un document maître, lier une base de données, et personnaliser chaque envoi avec les informations spécifiques à vos destinataires. Que ce soit pour des lettres ou des étiquettes, ce cours vous permettra de maîtriser l’ensemble du processus de publipostage, vous faisant gagner du temps tout en améliorant la précision de vos correspondances.\nNiveau : 2\nDurée : 02:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Outils bureautiques : Publiposter des documents avec Writer</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/informatique/outils_d_edition/mettre_en_page_un_document_avec_scribus.html",
+    "href": "fiches_cours/informatique/outils_d_edition/mettre_en_page_un_document_avec_scribus.html",
+    "title": "21  Outils d’édition : Mettre en page un document avec Scribus",
+    "section": "",
+    "text": "Description : Ce cours est dédié à Scribus (version 1.4), le logiciel libre de PAO (publication assistée par ordinateur). Ce cours est composé de plusieurs didacticiels : ils commencent par les bases de Scribus, l’interface et outils fondamentaux. Ensuite vous apprendrez à insérer et gérer des cadres de texte, à intégrer des images et à manipuler les filets pour structurer visuellement vos documents. Le fil rouge de ce cours sera la création d’un document statistique de 4 pages, vous permettant d’appliquer progressivement chaque technique abordée tout en construisant un projet complet.\nNiveau : 1\nDurée : 04:00:00",
+    "crumbs": [
+      "Informatique",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Outils d'édition : Mettre en page un document avec Scribus</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/economie_sciences_sociales/economie/faire_ses_premiers_pas_en_macroeconomie.html",
+    "href": "fiches_cours/economie_sciences_sociales/economie/faire_ses_premiers_pas_en_macroeconomie.html",
+    "title": "22  Economie : Faire ses premiers pas en macroéconomie",
+    "section": "",
+    "text": "Description : Dans ce cours, suivez le druide Cefix et son assistant Apprentix, à la découverte des agents économiques, des différentes approches du PIB et de la croissance du petit village des irréductibles gaulois de Liburnia.\nNiveau : 1\nDurée : 02:00:00",
+    "crumbs": [
+      "Economie & Sciences Sociales",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Economie : Faire ses premiers pas en macroéconomie</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/economie_sciences_sociales/demographie/decouvrir_les_premiers_concepts_en_demographie.html",
+    "href": "fiches_cours/economie_sciences_sociales/demographie/decouvrir_les_premiers_concepts_en_demographie.html",
+    "title": "23  Démographie : Découvrir les premiers concepts en démographie",
+    "section": "",
+    "text": "Description : Dans ce cours d’initiation à la démographie, vous suivrez les aventures de Micra la fourmi pour découvrir les bases de cette science. Le cours définit la démographie et vous aide à distinguer le stock et le flux de population. Ensuite, il examine en détail la natalité et la mortalité, deux facteurs essentiels d’évolution de la population. En suivant l’évolution de la colonie de fourmis à laquelle appartient Micra, vous comprendrez comment ces concepts s’appliquent concrètement à la dynamique des populations.\nNiveau : 1\nDurée : 02:00:00",
+    "crumbs": [
+      "Economie & Sciences Sociales",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Démographie : Découvrir les premiers concepts en démographie</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/economie_sciences_sociales/demographie/aller_plus_loin_dans_la_comprehension_des_phenomenes_demographiques.html",
+    "href": "fiches_cours/economie_sciences_sociales/demographie/aller_plus_loin_dans_la_comprehension_des_phenomenes_demographiques.html",
+    "title": "24  Démographie : Aller plus loin dans la compréhension des phénomènes démographiques",
+    "section": "",
+    "text": "Description : Dans la continuité du cours sur les premiers concepts, vous poursuivrez les aventures de Micra la fourmi pour explorer les facteurs d’évolution des populations. Vous étudierez le solde naturel et le solde migratoire, deux indicateurs clés pour comprendre la croissance ou le déclin des populations. Micra vous guidera ensuite à travers l’analyse de la pyramide des âges, un outil essentiel pour visualiser la structure d’une population, avant d’aborder les projections de populations basées sur ces éléments.\nNiveau : 2\nDurée : 02:00:00",
+    "crumbs": [
+      "Economie & Sciences Sociales",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Démographie : Aller plus loin dans la compréhension des phénomènes démographiques</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/l_insee_et_son_environnement/insee/visiter_la_ville_insee.html",
+    "href": "fiches_cours/l_insee_et_son_environnement/insee/visiter_la_ville_insee.html",
+    "title": "25  Insee : Visiter la ville Insee",
+    "section": "",
+    "text": "Description : Ce cours propose une exploration de l’Insee à travers une métaphore urbaine, en représentant l’institut comme une ville. Les différents “quartiers” et les rues associées symbolisent les principales fonctions et missions de l’Insee. Vous découvrirez l’organisation territoriale de l’institut et comprendrez comment ses différentes composantes sont reliées pour contribuer à ses objectifs.\nNiveau : 1\nDurée : 03:00:00",
+    "crumbs": [
+      "L'Insee et son environnement",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Insee : Visiter la ville Insee</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/l_insee_et_son_environnement/insee/decouvrir_les_metiers_de_l_insee.html",
+    "href": "fiches_cours/l_insee_et_son_environnement/insee/decouvrir_les_metiers_de_l_insee.html",
+    "title": "26  Insee : Découvrir les métiers de l’Insee",
+    "section": "",
+    "text": "Description : Ce cours propose une présentation des métiers de l’Insee, en s’appuyant sur un référentiel structuré : la grille des métiers. Les métiers y sont classés selon les différentes fonctions de l’institut, permettant d’explorer la diversité des expertises qui contribuent à ses missions. Ce cours vous permettra d’avoir une vue d’ensemble des compétences et rôles au sein de l’Insee et comment ces métiers s’intègrent dans la “ville” Insee.\nNiveau : 1\nDurée : 03:00:00",
+    "crumbs": [
+      "L'Insee et son environnement",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Insee : Découvrir les métiers de l'Insee</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/l_insee_et_son_environnement/insee/suivre_la_naissance_d_une_enquete_a_l_insee.html",
+    "href": "fiches_cours/l_insee_et_son_environnement/insee/suivre_la_naissance_d_une_enquete_a_l_insee.html",
+    "title": "27  Insee : Suivre la naissance d’une enquête à l’Insee",
+    "section": "",
+    "text": "Description : Ce cours vous plonge dans le processus de naissance d’une enquête à l’Insee. Il met en lumière les critères qui justifient la mise en place d’une enquête, ainsi que les différents acteurs impliqués dans sa conception et son déploiement. À travers cette exploration, vous découvrirez les étapes nécessaires pour qu’une enquête voit le jour, depuis la définition du besoin statistique jusqu’à la coordination entre les parties prenantes.\nNiveau : 1\nDurée : 01:00:00",
+    "crumbs": [
+      "L'Insee et son environnement",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Insee : Suivre la naissance d’une enquête à l’Insee</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/l_insee_et_son_environnement/insee/retracer_le_parcours_de_la_donnee_a_l_insee.html",
+    "href": "fiches_cours/l_insee_et_son_environnement/insee/retracer_le_parcours_de_la_donnee_a_l_insee.html",
+    "title": "28  Insee : Retracer le parcours de la donnée à l’Insee",
+    "section": "",
+    "text": "Description : Ce cours explore le parcours de la donnée au sein de la “ville Insee”, depuis sa conception jusqu’à sa diffusion. À travers cette métaphore urbaine, les apprenants découvriront dans quels “quartiers” de l’Insee se déroulent les différentes étapes du cycle de vie de la donnée : la conception, la collecte, le traitement, l’analyse, la documentation et la diffusion. Chaque quartier incarne une phase clé du processus, offrant ainsi une vision claire et structurée du cheminement des données dans l’institut.\nNiveau : 1\nDurée : 01:00:00",
+    "crumbs": [
+      "L'Insee et son environnement",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Insee : Retracer le parcours de la donnée à l'Insee</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/l_insee_et_son_environnement/environnement_de_l_insee/s_initier_au_code_de_bonnes_pratiques_de_la_statistique_europeenne.html",
+    "href": "fiches_cours/l_insee_et_son_environnement/environnement_de_l_insee/s_initier_au_code_de_bonnes_pratiques_de_la_statistique_europeenne.html",
+    "title": "29  Environnement de l’Insee : S’initier au code de bonnes pratiques de la statistique européenne",
+    "section": "",
+    "text": "Description : Le code de bonnes pratiques de la statistique européenne constitue un cadre de référence essentiel pour garantir la qualité, l’indépendance et l’intégrité des statistiques produites au sein de l’Union européenne. Vous découvrirez à travers ce module les principes qui sous-tendent l’élaboration et la diffusion des données statistiques publiques en Europe, ainsi que leur importance pour la transparence et la confiance des utilisateurs.\nNiveau : 1\nDurée : 01:00:00",
+    "crumbs": [
+      "L'Insee et son environnement",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Environnement de l'Insee : S'initier au code de bonnes pratiques de la statistique européenne</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/l_insee_et_son_environnement/environnement_de_l_insee/connaitre_les_droits_et_devoirs_du_fonctionnaire.html",
+    "href": "fiches_cours/l_insee_et_son_environnement/environnement_de_l_insee/connaitre_les_droits_et_devoirs_du_fonctionnaire.html",
+    "title": "30  Environnement de l’Insee : Connaître les droits et devoirs du fonctionnaire",
+    "section": "",
+    "text": "Description : Ce cours vous propose une exploration approfondie des droits et devoirs des fonctionnaires en France, en se basant sur les textes législatifs qui encadrent la fonction publique. Vous découvrirez les obligations auxquelles tout fonctionnaire est soumis, ainsi que les droits qui lui sont garantis tout au long de sa carrière. Ce module vous aidera à comprendre les principes fondamentaux qui gouvernent l’action des agents publics et leur engagement envers l’État et les citoyens.\nNiveau : 1\nDurée : 01:00:00",
+    "crumbs": [
+      "L'Insee et son environnement",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Environnement de l'Insee : Connaître les droits et devoirs du fonctionnaire</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/formations_metiers/connaitre_le_contexte_juridique_du_recensement_de_la_population.html",
+    "href": "fiches_cours/formations_metiers/connaitre_le_contexte_juridique_du_recensement_de_la_population.html",
+    "title": ": Connaître le contexte juridique du recensement de la population",
+    "section": "",
+    "text": "Description : Ce cours est à destination des superviseurs : il a pour objectif de vous faire découvrir le contexte juridique du recensement de la population.\nNiveau : 1\nDurée : 02:00:00",
+    "crumbs": [
+      "Formations métiers",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>: Connaître le contexte juridique du recensement de la population</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/formations_metiers/conduire_un_projet_et_assurer_la_maintenance.html",
+    "href": "fiches_cours/formations_metiers/conduire_un_projet_et_assurer_la_maintenance.html",
+    "title": ": Conduire un projet et assurer la maintenance",
+    "section": "",
+    "text": "Description : Ce cours est conçu pour les chefs de projet souhaitant acquérir une vision claire et complète des étapes clés d’un projet, de sa conception à sa mise en production. Vous apprendrez à identifier ce qui constitue un projet, à en distinguer les phases, ainsi qu’à reconnaître les différents acteurs impliqués et les livrables attendus à chaque étape. Ce module vous permettra de maîtriser l’organisation et la coordination d’un projet tout en vous guidant vers une gestion efficace jusqu’à sa finalisation.\nNiveau : 1\nDurée : 01:00:00",
+    "crumbs": [
+      "Formations métiers",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>: Conduire un projet et assurer la maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "fiches_cours/outils_pedagogiques/quiz_d_evaluation_de_la_formation_des_b2.html",
+    "href": "fiches_cours/outils_pedagogiques/quiz_d_evaluation_de_la_formation_des_b2.html",
+    "title": ": Quiz d’évaluation de la formation des B2",
+    "section": "",
+    "text": "Description : QCM de 50 questions pour evaluer les compétences à l’issue de la formation des B2\nNiveau : 1\nDurée : 00:00:00",
+    "crumbs": [
+      "Outils pédagogiques",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>: Quiz d'évaluation de la formation des B2</span>"
+    ]
+  }
+]

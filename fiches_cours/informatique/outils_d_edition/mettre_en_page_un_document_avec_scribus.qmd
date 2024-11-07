@@ -1,0 +1,9 @@
+
+---
+title: "Outils d'édition : Mettre en page un document avec Scribus"
+---
+
+
+- **Description** : Ce cours est dédié à Scribus (version 1.4), le logiciel libre de PAO (publication assistée par ordinateur). Ce cours est composé de plusieurs didacticiels : ils commencent par les bases de Scribus, l'interface et outils fondamentaux. Ensuite vous apprendrez à insérer et gérer des cadres de texte, à intégrer des images et à manipuler les filets pour structurer visuellement vos documents. Le fil rouge de ce cours sera la création d'un document statistique de 4 pages, vous permettant d'appliquer progressivement chaque technique abordée tout en construisant un projet complet. 
+- **Niveau** : 1
+- **Durée** : 04:00:00

@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Débuter avec Calc"
+---
+
+
+- **Description** : Ce cours est spécialement conçu pour les étudiants qui n'ont jamais utilisé Calc, l'outil de tableur de la suite Libre Office. Le cours est structuré en trois parties distinctes, chacune introduisant progressivement des concepts fondamentaux tels que les menus, les classeurs, les feuilles et les cellules. Les didacticiels vous permettent de visionner les différentes manipulations pour activer une fonctionnalité et de les reproduire sur votre poste informatique. Vous serez ainsi en mesure de construire et gérer vos premières feuilles de calcul en toute autonomie. 
+- **Niveau** : 1
+- **Durée** : 03:00:00

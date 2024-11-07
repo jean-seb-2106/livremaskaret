@@ -1,0 +1,62 @@
+project:
+  type: book
+book:
+  cover-image: logo_cefil_new.jpg
+  title: "Catalogue des e-formations sur Maskaret"
+  author: "Equipe TICE"
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - part: "Mathématiques & Statistiques"
+      chapters:
+        - file: fiches_cours/mathematiques_statistiques/mathematiques/revoir_les_fondamentaux_en_mathematiques.qmd
+        - file: fiches_cours/mathematiques_statistiques/mathematiques/denombrer_et_calculer_des_probabilites.qmd
+        - file: fiches_cours/mathematiques_statistiques/statistiques/decouvrir_la_statistique_descriptive.qmd
+        - file: fiches_cours/mathematiques_statistiques/statistiques/decrire_une_distribution_statistique.qmd
+        - file: fiches_cours/mathematiques_statistiques/statistiques/mesurer_une_evolution_avec_les_indices.qmd
+        - file: fiches_cours/mathematiques_statistiques/statistiques/decrire_et_mesurer_les_liens_entre_deux_variables.qmd
+    - part: "Informatique"
+      chapters:
+        - file: fiches_cours/informatique/cefilr/faire_ses_premiers_pas_en_r.qmd
+        - file: fiches_cours/informatique/cefilr/manipuler_des_donnees_en_r_initiation.qmd
+        - file: fiches_cours/informatique/cefilr/manipuler_des_donnees_en_r_perfectionnement.qmd
+        - file: fiches_cours/informatique/cefilr/presenter_des_donnees_en_r.qmd
+        - file: fiches_cours/informatique/cefilr/realiser_des_graphiques_et_des_cartes_en_r.qmd
+        - file: fiches_cours/informatique/cefilr/generer_des_documents_automatises_en_r_avec_quarto.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/debuter_avec_calc.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/utiliser_calc_efficacement.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/mettre_en_forme_un_tableau_avec_calc.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/utiliser_les_tables_dynamiques_avec_calc.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/produire_des_graphiques_avec_calc.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/creer_rapidement_un_diaporama_avec_impress.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/mettre_en_forme_et_structurer_un_document_long_avec_writer.qmd
+        - file: fiches_cours/informatique/outils_bureautiques/publiposter_des_documents_avec_writer.qmd
+        - file: fiches_cours/informatique/outils_d_edition/mettre_en_page_un_document_avec_scribus.qmd
+    - part: "Economie & Sciences Sociales"
+      chapters:
+        - file: fiches_cours/economie_sciences_sociales/economie/faire_ses_premiers_pas_en_macroeconomie.qmd
+        - file: fiches_cours/economie_sciences_sociales/demographie/decouvrir_les_premiers_concepts_en_demographie.qmd
+        - file: fiches_cours/economie_sciences_sociales/demographie/aller_plus_loin_dans_la_comprehension_des_phenomenes_demographiques.qmd
+    - part: "L'Insee et son environnement"
+      chapters:
+        - file: fiches_cours/l_insee_et_son_environnement/insee/visiter_la_ville_insee.qmd
+        - file: fiches_cours/l_insee_et_son_environnement/insee/decouvrir_les_metiers_de_l_insee.qmd
+        - file: fiches_cours/l_insee_et_son_environnement/insee/suivre_la_naissance_d_une_enquete_a_l_insee.qmd
+        - file: fiches_cours/l_insee_et_son_environnement/insee/retracer_le_parcours_de_la_donnee_a_l_insee.qmd
+        - file: fiches_cours/l_insee_et_son_environnement/environnement_de_l_insee/s_initier_au_code_de_bonnes_pratiques_de_la_statistique_europeenne.qmd
+        - file: fiches_cours/l_insee_et_son_environnement/environnement_de_l_insee/connaitre_les_droits_et_devoirs_du_fonctionnaire.qmd
+    - part: "Formations métiers"
+      chapters:
+        - file: fiches_cours/formations_metiers//connaitre_le_contexte_juridique_du_recensement_de_la_population.qmd
+        - file: fiches_cours/formations_metiers//conduire_un_projet_et_assurer_la_maintenance.qmd
+    - part: "Outils pédagogiques"
+      chapters:
+        - file: fiches_cours/outils_pedagogiques//quiz_d_evaluation_de_la_formation_des_b2.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual

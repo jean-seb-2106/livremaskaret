@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Produire des graphiques avec Calc"
+---
+
+
+- **Description** : Ce cours vous apprend à visualiser vos données de manière efficace à travers trois types de graphiques : les diagrammes en barre, les diagrammes circulaires et les courbes. Vous découvrirez comment sélectionner vos données, choisir le type de graphique le plus adapté, et personnaliser l'apparence de vos graphiques pour une présentation claire et impactante. Que vous souhaitiez représenter des évolutions, des répartitions ou des comparaisons, ce cours vous fournira les compétences nécessaires pour transformer vos données en représentations visuelles pertinentes. 
+- **Niveau** : 3
+- **Durée** : 03:00:00

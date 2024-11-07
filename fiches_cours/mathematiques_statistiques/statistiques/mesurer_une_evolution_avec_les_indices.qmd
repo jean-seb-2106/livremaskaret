@@ -1,0 +1,9 @@
+
+---
+title: "Statistiques : Mesurer une évolution avec les indices"
+---
+
+
+- **Description** : Ce cours présente les concepts et l’utilisation des indices simples et synthétiques pour mesurer les évolutions économiques, en particulier les variations des prix. Les étudiants apprendront à calculer et interpréter des indices simples ainsi que des indices synthétiques, avec un focus sur des applications concrètes comme l'Indice des Prix à la Consommation (IPC).
+- **Niveau** : 1
+- **Durée** : 03:00:00

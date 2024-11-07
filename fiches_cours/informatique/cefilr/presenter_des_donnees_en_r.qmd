@@ -1,0 +1,10 @@
+
+---
+title: "CefilR : Présenter des données en R"
+---
+
+
+- **Description** : Ce chapitre introduit le concept de données ‘tidy’ où chaque colonne est une variable, chaque ligne une observation et chaque cellule est une valeur. Le package tidyr est présenté, tout d’abord pour traiter des jeux de données tabulés et incomplets, puis pour gérer la non-réponse et la mise à disposition de tableaux « larges ». Les deux dernières séquences sont consacrées au package gt, qui tend à devenir la référence concernant la production de tableaux statistiques mis en forme. L’objectif est de traiter les données afin de permettre de calculer de nouvelles variables et des indicateurs et de les analyser en vue de produire des tableaux de diffusion.
+Il est composé de cinq parties, chacune d'entre elles comportant un cours, des exercices corrigés et un QCM.
+- **Niveau** : 2
+- **Durée** : 10:00:00

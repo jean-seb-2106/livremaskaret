@@ -1,0 +1,13 @@
+
+---
+title: "CefilR : Faire ses premiers pas en R"
+---
+
+
+- **Description** : Ce chapitre introductif au parcours de formation cefilR vous permet de découvrir R et son environnement de développement utilisé principalement à l’Insee, Rstudio.
+Il est composé de six séquences, chacune d’entre elles comportant des vidéos, un cours, des exercices corrigés, un QCM.
+Vous pourrez enregistrer ces fichiers de données sous l’arborescence qui vous est proposée en vidéo d’introduction du parcours.
+Ce chapitre se termine par un point d'étape. C'est le point de départ du mini-projet, qui permet de valider vos acquis. 
+
+- **Niveau** : 1
+- **Durée** : 12:00:00

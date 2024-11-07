@@ -1,0 +1,9 @@
+
+---
+title: "Insee : Retracer le parcours de la donnée à l'Insee"
+---
+
+
+- **Description** : Ce cours explore le parcours de la donnée au sein de la "ville Insee", depuis sa conception jusqu'à sa diffusion. À travers cette métaphore urbaine, les apprenants découvriront dans quels "quartiers" de l'Insee se déroulent les différentes étapes du cycle de vie de la donnée : la conception, la collecte, le traitement, l'analyse, la documentation et la diffusion. Chaque quartier incarne une phase clé du processus, offrant ainsi une vision claire et structurée du cheminement des données dans l'institut.
+- **Niveau** : 1
+- **Durée** : 01:00:00

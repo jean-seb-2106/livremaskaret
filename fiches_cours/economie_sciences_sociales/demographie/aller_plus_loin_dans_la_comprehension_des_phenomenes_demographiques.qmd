@@ -1,0 +1,9 @@
+
+---
+title: "Démographie : Aller plus loin dans la compréhension des phénomènes démographiques"
+---
+
+
+- **Description** : Dans la continuité du cours sur les premiers concepts, vous poursuivrez les aventures de Micra la fourmi pour explorer les facteurs d’évolution des populations. Vous étudierez le solde naturel et le solde migratoire, deux indicateurs clés pour comprendre la croissance ou le déclin des populations. Micra vous guidera ensuite à travers l’analyse de la pyramide des âges, un outil essentiel pour visualiser la structure d'une population, avant d'aborder les projections de populations basées sur ces éléments.
+- **Niveau** : 2
+- **Durée** : 02:00:00

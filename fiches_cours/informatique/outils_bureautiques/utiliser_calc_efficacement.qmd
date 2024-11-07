@@ -1,0 +1,9 @@
+
+---
+title: "Outils bureautiques : Utiliser Calc efficacement"
+---
+
+
+- **Description** : Ce cours vous présente deux fonctionnalités très utiles pour améliorer votre productivité quand vous utilisez Calc : les références absolues et le collage spécial. Les rérérences absolues vous permettent d’éviter de faire des ajustements manuels quand vous utilisez des références dans des formules. Elles vous font gagner un temps précieux dans les feuilles de calculs complexes. Le collage spécial vous permet quant à lui de choisir précisément quels éléments vous souhaitez coller, plutôt que de copier-coller l’ensemble du contenu d’une cellule. Vous verrez plus précisément le collage spécial transposé vous permettant de changer l’orientation de vos données et le collage spécial lié qui permet de créer des liens dynamiques entre les cellules copiées et leur nouvelle destination. 
+- **Niveau** : 2
+- **Durée** : 03:00:00

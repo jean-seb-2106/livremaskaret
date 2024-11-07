@@ -1,0 +1,9 @@
+
+---
+title: "Insee : Suivre la naissance d’une enquête à l’Insee"
+---
+
+
+- **Description** : Ce cours vous plonge dans le processus de naissance d'une enquête à l'Insee. Il met en lumière les critères qui justifient la mise en place d'une enquête, ainsi que les différents acteurs impliqués dans sa conception et son déploiement. À travers cette exploration, vous découvrirez les étapes nécessaires pour qu'une enquête voit le jour, depuis la définition du besoin statistique jusqu'à la coordination entre les parties prenantes.
+- **Niveau** : 1
+- **Durée** : 01:00:00

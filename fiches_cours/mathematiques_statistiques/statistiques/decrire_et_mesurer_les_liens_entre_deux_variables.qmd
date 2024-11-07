@@ -1,0 +1,9 @@
+
+---
+title: "Statistiques : Décrire et mesurer les liens entre deux variables"
+---
+
+
+- **Description** : Ce cours se concentre sur l’analyse des corrélations entre des variables prises deux à deux, en fonction de leur nature (quantitative ou qualitative). Structuré en trois modules distincts, il permet d’explorer les méthodes d’analyse des relations entre variables quantitatives, entre variables qualitatives, et entre une variable quantitative et une variable qualitative. Chaque module inclut des exemples concrets pour vous aider à comprendre les différentes techniques et à interpréter les résultats de manière précise. Ce cours est conçu pour donner une maîtrise pratique des outils de corrélation, indispensables dans l’analyse statistique.
+- **Niveau** : 2
+- **Durée** : 06:00:00

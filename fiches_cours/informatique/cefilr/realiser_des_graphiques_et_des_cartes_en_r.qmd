@@ -1,0 +1,13 @@
+
+---
+title: "CefilR : Réaliser des graphiques et des cartes en R"
+---
+
+
+- **Description** : Ce chapitre est dédié à la création de graphiques avec le package ggplot2, un outil puissant et flexible pour la visualisation de données en R.
+ggplot2 permet de créer une variété de graphiques, allant des plus simples aux plus complexes, tout en offrant une grande liberté pour personnaliser chaque aspect de vos visualisations.
+Il est composé de 4 séquences, chacune d’entre elles comportant un cours, des exercices corrigés, un QCM.
+Vous pourrez enregistrer ces fichiers de données sous l’arborescence qui vous est proposée en vidéo d’introduction du parcours.
+Ce chapitre se termine par un point d'étape qui vous permet de continuer à réaliser votre mini-projet, en repartant de ce que vous avez fait au point d’étape précédent. 
+- **Niveau** : 3
+- **Durée** : 08:00:00

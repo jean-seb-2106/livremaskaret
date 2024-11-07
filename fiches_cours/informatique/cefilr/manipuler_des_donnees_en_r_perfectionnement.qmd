@@ -1,0 +1,12 @@
+
+---
+title: "CefilR : Manipuler des données en R : perfectionnement"
+---
+
+
+- **Description** : Ce chapitre vous amène à la suite de la découverte de R, et plus particulièrement, du package dplyr que vous avez déjà utilisé dans le précédent chapitre.
+L’objectif est de traiter les données, les enrichir et de débuter l’analyse.
+Ce troisième chapitre est composé de 4 séquences avec cours, exercices corrigés et QCM consultables en ligne et des fichiers à télécharger disponibles dans le zip ci-dessous comme vous en avez maintenant l’habitude.
+N’oubliez pas d’enregistrer ces fichiers de données sous votre arborescence de travail comme cela vous est proposé dans la vidéo d’introduction du parcours.
+- **Niveau** : 2
+- **Durée** : 08:00:00
