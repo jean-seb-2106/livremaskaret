@@ -1,6 +1,6 @@
 
 ---
-title: "Outils bureautiques : Produire des graphiques avec Calc"
+title: "Bureautique : Produire des graphiques avec Calc"
 ---
 
 

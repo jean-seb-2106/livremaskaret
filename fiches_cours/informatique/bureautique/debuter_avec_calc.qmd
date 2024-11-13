@@ -1,6 +1,6 @@
 
 ---
-title: "Outils bureautiques : Débuter avec Calc"
+title: "Bureautique : Débuter avec Calc"
 ---
 
 

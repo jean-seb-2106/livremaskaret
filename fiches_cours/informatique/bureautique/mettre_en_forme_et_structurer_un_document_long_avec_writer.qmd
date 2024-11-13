@@ -1,6 +1,6 @@
 
 ---
-title: "Outils bureautiques : Mettre en forme et structurer un document long avec Writer"
+title: "Bureautique : Mettre en forme et structurer un document long avec Writer"
 ---
 
 

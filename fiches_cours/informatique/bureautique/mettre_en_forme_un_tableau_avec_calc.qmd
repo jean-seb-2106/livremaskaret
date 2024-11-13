@@ -1,6 +1,6 @@
 
 ---
-title: "Outils bureautiques : Mettre en forme un tableau avec Calc"
+title: "Bureautique : Mettre en forme un tableau avec Calc"
 ---
 
 

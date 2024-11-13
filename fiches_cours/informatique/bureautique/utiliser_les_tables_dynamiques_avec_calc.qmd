@@ -1,6 +1,6 @@
 
 ---
-title: "Outils bureautiques : Utiliser les tables dynamiques avec Calc"
+title: "Bureautique : Utiliser les tables dynamiques avec Calc"
 ---
 
 

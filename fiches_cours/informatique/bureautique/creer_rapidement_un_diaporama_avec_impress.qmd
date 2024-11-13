@@ -1,6 +1,6 @@
 
 ---
-title: "Outils bureautiques : Créer rapidement un diaporama avec Impress"
+title: "Bureautique : Créer rapidement un diaporama avec Impress"
 ---
 
 

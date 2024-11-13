@@ -1,6 +1,6 @@
 
 ---
-title: "Outils bureautiques : Publiposter des documents avec Writer"
+title: "Bureautique : Publiposter des documents avec Writer"
 ---
 
 

@@ -1,6 +1,6 @@
 
 ---
-title: "Environnement de l'Insee : S'initier au code de bonnes pratiques de la statistique européenne"
+title: "Cadre juridique et institutionnel : S'initier au code de bonnes pratiques de la statistique européenne"
 ---
 
 

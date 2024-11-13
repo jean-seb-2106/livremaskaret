@@ -1,6 +1,6 @@
 
 ---
-title: "Outils d'édition : Mettre en page un document avec Scribus"
+title: "Edition : Mettre en page un document avec Scribus"
 ---
 
 
