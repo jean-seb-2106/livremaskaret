@@ -86,9 +86,9 @@ cat("  type: book\n", file = quarto_yml_path, append = TRUE)
 cat("book:\n", file = quarto_yml_path, append = TRUE)
 cat("  title: \"Catalogue des e-formations sur Maskaret\"\n", file = quarto_yml_path, append = TRUE)
 cat("  author: \"Equipe TICE\"\n", file = quarto_yml_path, append = TRUE)
-cat("  lang: fr\n", file = quarto_yml_path, append = TRUE)
 cat("  cover-image: logo_cefil_new.jpg\n", file = quarto_yml_path, append = TRUE)
 cat("  chapters:\n", file = quarto_yml_path, append = TRUE)
+cat("    -index.qmd\n", file = quarto_yml_path, append = TRUE)
 
 # Ecriture dans le YAML de toutes les références aux fiches 
 #qmd dans l'arborescence
