@@ -2,6 +2,7 @@
 library(RMariaDB)
 library(DBI)
 library(dplyr)
+library(dbplyr)
 
 #connexion à la bdd Moodle hébergée en local sur ma machine
 con <- dbConnect(MariaDB(),
@@ -11,14 +12,42 @@ con <- dbConnect(MariaDB(),
                  password="super"
 )
 
+# Requête et tri final
+cours <- tbl(con, sql(
+  "SELECT
+      c.id AS course_id,
+      c.fullname AS course_name,
+      c.shortname AS course_shortname,
+      c.summary AS description,
+      cat1.name AS category,
+      cat2.name AS subcategory,
+      COUNT(DISTINCT ue.userid) AS nombre_inscrits
+   FROM
+      mdl_course c
+   LEFT JOIN
+      mdl_course_categories cat1 ON c.category = cat1.id
+   LEFT JOIN
+      mdl_course_categories cat2 ON cat1.parent = cat2.id
+   LEFT JOIN
+      mdl_enrol e ON c.id = e.courseid
+   LEFT JOIN
+      mdl_user_enrolments ue ON e.id = ue.enrolid
+   WHERE
+      c.category IS NOT NULL
+   GROUP BY
+      c.id, c.fullname, c.shortname, c.summary, cat1.name, cat2.name"
+)) %>%
+  collect() %>%
+  arrange(course_shortname)  # Tri par code court du cours
 
-#connexion à la bdd reproduisant Moodle (sur la machine de l'Insee)
-con <- dbConnect(MariaDB(),
-                 dbname="Maskaret",
-                 host="localhost",
-                 user="root",
-                 password=""
-)
+# Affiche les premières lignes
+head(cours)
+
+# Ferme la connexion
+dbDisconnect(con)
+
+
+
 
 #Récupération de la table avec les cours
 cours_data <- dbGetQuery(con,"SELECT * FROM cours")
