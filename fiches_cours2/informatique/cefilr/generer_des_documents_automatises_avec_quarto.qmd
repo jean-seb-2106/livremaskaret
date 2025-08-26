@@ -1,0 +1,15 @@
+
+---
+title: "CefilR : Générer des documents automatisés avec Quarto"
+---
+
+
+- **Description** : <ol>
+<li>Documents reproductibles avec Quarto</li>
+<li>Éléments avancés de Quarto</li>
+<li>Atlas automatisé avec Quarto (à venir)</li>
+<li>Rapports interactifs avec Quarto (à venir)</li>
+<li>Projets Quarto : production de books, sites web, blogs et tableaux de bord (à venir) </li>
+</ol>
+<p>Prérequis : Avoir suivi tous les chapitres précédents de Cefil'R<br>Niveau de difficulté : <strong>3<br></strong>Durée :<strong> 15 heures <br></strong></p>
+- **Nombre d'inscrits** : 793

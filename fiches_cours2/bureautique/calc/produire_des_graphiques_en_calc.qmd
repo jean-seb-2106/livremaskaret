@@ -1,0 +1,13 @@
+
+---
+title: "Calc : Produire des graphiques en Calc"
+---
+
+
+- **Description** : <ol>
+<li>Diagramme en barres</li>
+<li>Diagramme en secteurs</li>
+<li>Courbe</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=56" target="_blank" rel="noopener">Débuter en Calc</a><br>Niveau de difficulté : <strong>2</strong><br>Durée : <strong>55 minutes<br></strong></p>
+- **Nombre d'inscrits** : 103

@@ -1,0 +1,16 @@
+
+---
+title: "CefilR : Manipuler les données en R : perfectionnement"
+---
+
+
+- **Description** : <ol>
+<li>Créer ou modifier des colonnes, tri de colonnes</li>
+<li>Produire des tableaux d'indicateurs statistiques</li>
+<li>Statistiques et calculs par modalités</li>
+<li>Combiner plusieurs tables</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=6" target="_blank" rel="noopener">Manipuler les données en R : initiation</a><br>Niveau de difficulté : <strong>2<br></strong>Durée :<strong> 15 heures <br></strong></p>
+<p dir="rtl"></p>
+<p style="text-align: left;"></p>
+- **Nombre d'inscrits** : 793

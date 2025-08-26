@@ -1,0 +1,13 @@
+
+---
+title: "Connaissance de l'Insee : Visiter la ville Insee"
+---
+
+
+- **Description** : <ol>
+<li>A la découverte de la ville Insee</li>
+<li>Les liens entre les quartiers de l'Insee</li>
+<li>Organisation fonctionnelle et territoriale de l'Insee</li>
+</ol>
+<p>Prérequis : <strong>aucun</strong><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>2 heures</strong></p>
+- **Nombre d'inscrits** : 126

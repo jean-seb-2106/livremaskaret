@@ -1,0 +1,15 @@
+
+---
+title: "Formations métiers : Se former à OCAPI "
+---
+
+
+- **Description** : <ol>
+<li>Présentation générale d'OCAPI</li>
+<li>Identifier une série à commenter</li>
+<li>Commenter une série en évolution</li>
+<li>Commenter une série en révision</li>
+<li>Valider une série</li>
+</ol>
+<p>Prérequis : <strong>avoir suivi de préférence la formation ORIGAMI</strong><br>Niveau de difficulté :<strong> 1<br></strong>Durée <strong>: 6 heures</strong></p>
+- **Nombre d'inscrits** : 27

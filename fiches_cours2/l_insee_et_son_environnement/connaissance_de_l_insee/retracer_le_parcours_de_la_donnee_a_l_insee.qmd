@@ -1,0 +1,11 @@
+
+---
+title: "Connaissance de l'Insee : Retracer le parcours de la donnée à l'Insee"
+---
+
+
+- **Description** : <ol>
+<li>Le parcours de la donnée</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=67" target="_blank" rel="noopener">Visiter la ville Insee</a><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>30 minutes</strong></p>
+- **Nombre d'inscrits** : 107

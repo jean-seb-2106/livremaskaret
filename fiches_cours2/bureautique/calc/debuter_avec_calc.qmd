@@ -1,0 +1,13 @@
+
+---
+title: "Calc : Débuter avec Calc"
+---
+
+
+- **Description** : <ol>
+<li>Maîtriser l'interface, gérer les classeurs</li>
+<li>Gérer, créer et modifier les feuilles</li>
+<li>Saisir, modifier, insérer, supprimer des données</li>
+</ol>
+<p>Prérequis : <strong>Aucun</strong><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>45 minutes</strong></p>
+- **Nombre d'inscrits** : 116

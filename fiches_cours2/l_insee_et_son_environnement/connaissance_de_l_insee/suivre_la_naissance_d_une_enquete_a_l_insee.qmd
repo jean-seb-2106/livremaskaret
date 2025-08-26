@@ -1,0 +1,11 @@
+
+---
+title: "Connaissance de l'Insee : Suivre la naissance d’une enquête à l’Insee"
+---
+
+
+- **Description** : <ol>
+<li>Naissance d'une enquête de l'Insee</li>
+</ol>
+<p>Prérequis : <strong>aucun</strong><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>45 minutes</strong></p>
+- **Nombre d'inscrits** : 105

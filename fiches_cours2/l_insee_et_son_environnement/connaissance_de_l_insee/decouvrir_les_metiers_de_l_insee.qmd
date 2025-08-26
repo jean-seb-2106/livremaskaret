@@ -1,0 +1,16 @@
+
+---
+title: "Connaissance de l'Insee : Découvrir les métiers de l’Insee"
+---
+
+
+- **Description** : <ol>
+<li>Production statistique</li>
+<li>Analyse et études statistiques, recherche, enseignement</li>
+<li>Action régionale, relation avec les acteurs publics régionaux</li>
+<li>Informatique</li>
+<li>Fonction support</li>
+<li>Stratégie et pilotage</li>
+</ol>
+<p>Prérequis : <strong>aucun</strong><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>2 heures</strong></p>
+- **Nombre d'inscrits** : 107

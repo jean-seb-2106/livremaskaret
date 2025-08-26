@@ -1,0 +1,12 @@
+
+---
+title: "Mathématiques : Découvrir les grandes lois de probabilités"
+---
+
+
+- **Description** : <ol>
+<li>Lois discrètes</li>
+<li>Loi normale</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=40">Dénombrer, calculer et modéliser des probabilités</a><br>Niveau de difficulté : <strong>2<br></strong>Durée : <strong>80 minutes<br><br></strong></p>
+- **Nombre d'inscrits** : 138

@@ -1,0 +1,43 @@
+project:
+  type: book
+book:
+  title: "Catalogue des e-formations sur Maskaret"
+  author: "Equipe TICE"
+  cover-image: logo_cefil_new.jpg
+  chapters:
+    -index.qmd
+    - part: "Mathématiques & Statistiques"
+      chapters:
+        - file: fiches_cours2/mathematiques_statistiques/mathematiques/revoir_les_fondamentaux_en_mathematiques.qmd
+        - file: fiches_cours2/mathematiques_statistiques/mathematiques/denombrer_calculer_et_modeliser_des_probabilites.qmd
+        - file: fiches_cours2/mathematiques_statistiques/mathematiques/decouvrir_les_grandes_lois_de_probabilites.qmd
+        - file: fiches_cours2/mathematiques_statistiques/mathematiques/NA.qmd
+        - file: fiches_cours2/mathematiques_statistiques/statistiques/NA.qmd
+        - file: fiches_cours2/mathematiques_statistiques/NA/NA.qmd
+    - part: "Informatique"
+      chapters:
+        - file: fiches_cours2/informatique/NA/NA.qmd
+    - part: "Bureautique"
+      chapters:
+        - file: fiches_cours2/bureautique/NA/NA.qmd
+    - part: "Edition"
+      chapters:
+        - file: fiches_cours2/edition/NA/NA.qmd
+    - part: "Economie et sciences sociales"
+      chapters:
+        - file: fiches_cours2/economie_et_sciences_sociales/NA/NA.qmd
+    - part: "L'Insee et son environnement"
+      chapters:
+        - file: fiches_cours2/l_insee_et_son_environnement/NA/NA.qmd
+    - part: "NA"
+      chapters:
+        - file: fiches_cours2/NA/NA/NA.qmd
+    - part: "Ressources pédagogiques CEFIL"
+      chapters:
+        - file: fiches_cours2/ressources_pedagogiques_cefil/NA/NA.qmd
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+editor: visual

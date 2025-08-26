@@ -1,0 +1,13 @@
+
+---
+title: "Statistiques : Décrire une distribution statistique"
+---
+
+
+- **Description** : <ol>
+<li>Les indicateurs de tendance centrale</li>
+<li>Les indicateurs de dispersion</li>
+<li>Les indicateurs de concentration</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=46" target="_blank" rel="noopener">Découvrir la statistique descriptive</a><br>Niveau de difficulté : <strong>1<br></strong>Durée : <strong>2 heures</strong></p>
+- **Nombre d'inscrits** : 141

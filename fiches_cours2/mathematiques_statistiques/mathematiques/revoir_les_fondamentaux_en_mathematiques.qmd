@@ -1,0 +1,14 @@
+
+---
+title: "Mathématiques : Revoir les fondamentaux en mathématiques"
+---
+
+
+- **Description** : <ol>
+<li>Les opérations</li>
+<li>Utilisation des pourcentages</li>
+<li>Evolution et multiplicateur</li>
+<li>Taux d'évolution annuel moyen</li>
+</ol>
+<p>Prérequis : <strong>Aucun<br></strong>Niveau de difficulté : <strong>1<br></strong>Durée : <strong>2 heures</strong></p>
+- **Nombre d'inscrits** : 163

@@ -1,0 +1,17 @@
+
+---
+title: "Writer : Mettre en forme et structurer un document long avec Writer"
+---
+
+
+- **Description** : <ol>
+<li>Mettre en forme des paragraphes</li>
+<li>Créer un sommaire</li>
+<li>Créer un modèle de document</li>
+<li>Ajouter des listes à puces</li>
+<li>Gérer en-têtes et pieds de page</li>
+<li>Importer des styles</li>
+<li>Insérer des images, graphiques et tableaux</li>
+</ol>
+<p>Prérequis : <strong>Aucun</strong><br>Niveau de difficulté : <strong>2</strong><br>Durée : <strong>90 minutes</strong></p>
+- **Nombre d'inscrits** : 100

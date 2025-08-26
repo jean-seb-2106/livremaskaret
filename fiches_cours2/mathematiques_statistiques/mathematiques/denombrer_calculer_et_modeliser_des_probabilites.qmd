@@ -1,0 +1,13 @@
+
+---
+title: "Mathématiques : Dénombrer, calculer et modéliser des probabilités"
+---
+
+
+- **Description** : <ol>
+<li>Dénombrement</li>
+<li>Calcul de probabilités</li>
+<li>Variables aléatoires discontinues</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=39">Revoir les fondamentaux en mathématiques</a><br>Niveau de difficulté : <strong>2<br></strong>Durée : <strong>2 heures<br></strong></p>
+- **Nombre d'inscrits** : 144

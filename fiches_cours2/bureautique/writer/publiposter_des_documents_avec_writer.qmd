@@ -1,0 +1,12 @@
+
+---
+title: "Writer : Publiposter des documents avec Writer"
+---
+
+
+- **Description** : <ol>
+<li>Publiposter un courrier</li>
+<li>Publiposter des étiquettes</li>
+</ol>
+<p>Prérequis : <strong>Aucun</strong><br>Niveau de difficulté : <strong>2</strong><br>Durée :<strong> 35 minutes<br></strong></p>
+- **Nombre d'inscrits** : 98

@@ -1,0 +1,13 @@
+
+---
+title: "Démographie : Découvrir les premiers concepts en démographie"
+---
+
+
+- **Description** : <ol>
+<li>Les concepts</li>
+<li>La mortalité</li>
+<li>La natalité</li>
+</ol>
+<p>Prérequis : <strong>aucun</strong><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>2 heures</strong></p>
+- **Nombre d'inscrits** : 108

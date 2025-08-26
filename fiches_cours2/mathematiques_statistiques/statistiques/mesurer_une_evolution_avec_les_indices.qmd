@@ -1,0 +1,12 @@
+
+---
+title: "Statistiques : Mesurer une évolution avec les indices"
+---
+
+
+- **Description** : <ol>
+<li>Les indices simples</li>
+<li>Les indices synthétiques</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=39" target="_blank" rel="noopener">Revoir les fondamentaux en mathématiques</a><br>Niveau de difficulté : <strong>1<br></strong>Durée : <strong>2 heures</strong></p>
+- **Nombre d'inscrits** : 136

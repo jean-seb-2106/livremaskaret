@@ -1,0 +1,16 @@
+
+---
+title: "CefilR : Faire ses premiers pas en R"
+---
+
+
+- **Description** : <ol>
+<li><span style="font-size: 0.9375rem;">Découverte de R</span></li>
+<li><span style="font-size: 0.9375rem;">Les valeurs</span></li>
+<li><span style="font-size: 0.9375rem;">Les vecteurs</span></li>
+<li><span style="font-size: 0.9375rem;">Les data-frames</span></li>
+<li><span style="font-size: 0.9375rem;">Imports/exports de fichiers et installation de packages</span></li>
+<li>Les tableaux de comptage</li>
+</ol>
+<p>Prérequis : <strong>Aucun</strong><br>Niveau de difficulté : <strong>1<br></strong>Durée :<strong> 15 heures <br></strong></p>
+- **Nombre d'inscrits** : 793

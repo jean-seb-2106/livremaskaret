@@ -49,26 +49,6 @@ dbDisconnect(con)
 
 
 
-#Récupération de la table avec les cours
-cours_data <- dbGetQuery(con,"SELECT * FROM cours")
-
-#Récupération de la table avec les catégories
-categorie_data <- dbGetQuery(con,"SELECT * FROM categorie") %>% 
-  rename("categorie" = "nom","descriptif_categorie" = "descriptif")
-
-#Récupération de la table avec les sous_catégories
-souscategorie_data <- dbGetQuery(con,"SELECT * FROM souscategorie") %>% 
-  rename("souscategorie" = "nom","descriptif_souscategorie" = "descriptif") %>% 
-  left_join(categorie_data,by=c("categorie_id"="id"))
-
-#Enrichissement de la table des cours avec les sous catégories et les catégories
-cours_data <- cours_data %>% 
-  left_join(souscategorie_data,by=c("sousCategorie_id"="id")) 
-
-#Fermeture de la connexion à  la bdd après la récupération des données
-DBI::dbDisconnect(con)
-
-
 #Fonction pour nettoyer le nom
 clean_filename <- function(name) {
   # Supprimer les accents
@@ -83,30 +63,29 @@ clean_filename <- function(name) {
 
 
 # Boucle pour créer l'arborescence et générer les fiches----
-for (i in 1:nrow(cours_data)) {
-  row <- cours_data[i, ]
+for (i in 1:nrow(cours)) {
+  row <- cours[i, ]
   
   # Créer le chemin pour la catégorie/sous-catégorie
-  dir_path <- file.path("fiches_cours",clean_filename(row$categorie), 
-                        clean_filename(row$souscategorie))
+  dir_path <- file.path("fiches_cours2",clean_filename(row$subcategory), 
+                        clean_filename(row$category))
   dir.create(dir_path, recursive = TRUE, showWarnings = FALSE)
   
   # Nom du fichier .qmd
   filename <- file.path(dir_path, 
-                        paste0(clean_filename(row$nom), 
+                        paste0(clean_filename(row$course_name), 
                                ".qmd"))
   
   # Contenu de la fiche de cours
   content <- glue::glue("
 
   ---
-  title: \"{row$souscategorie} : {row$nom}\"
+  title: \"{row$category} : {row$course_name}\"
   ---
 
 
-  - **Description** : {row$descriptif}
-  - **Niveau** : {row$niveau}
-  - **Durée** : {row$duree}
+  - **Description** : {row$description}
+  - **Nombre d'inscrits** : {row$nombre_inscrits}
   ")
   
   # Écrire le contenu dans le fichier .qmd
@@ -117,7 +96,7 @@ for (i in 1:nrow(cours_data)) {
 #Création d'un Yaml qui reprend les rubriques des cours----
 
 # Chemin pour le fichier `_quarto.yml`
-quarto_yml_path <- file.path("_quarto.yml")
+quarto_yml_path <- file.path("_quarto2.yml")
 
 # Commence à écrire la structure de base pour le livre
 cat("project:\n", file = quarto_yml_path)
@@ -131,17 +110,17 @@ cat("    -index.qmd\n", file = quarto_yml_path, append = TRUE)
 
 # Ecriture dans le YAML de toutes les références aux fiches 
 #qmd dans l'arborescence
-for (cat in unique(cours_data$categorie)) {
+for (cat in unique(cours$subcategory)) {
   cat(paste0("    - part: \"", cat, "\"\n"), file = quarto_yml_path, append = TRUE)
   cat("      chapters:\n", file = quarto_yml_path, append = TRUE)
   
-  sous_cats <- unique(cours_data$souscategorie[cours_data$categorie == cat])
+  sous_cats <- unique(cours$category[cours$subcategory == cat])
   
   for (sous_cat in sous_cats) {
-    cours <- cours_data[cours_data$categorie == cat & cours_data$souscategorie == sous_cat, ]
+    cours <- cours[cours$subcategory == cat & cours$category == sous_cat, ]
     
     for (i in 1:nrow(cours)) {
-      cours_file <- file.path("fiches_cours",clean_filename(cat), clean_filename(sous_cat), paste0(clean_filename(cours$nom[i]), ".qmd"))
+      cours_file <- file.path("fiches_cours2",clean_filename(cat), clean_filename(sous_cat), paste0(clean_filename(cours$course_name[i]), ".qmd"))
       cat(paste0("        - file: ", cours_file, "\n"), file = quarto_yml_path, append = TRUE)
     }
   }

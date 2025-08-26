@@ -1,0 +1,23 @@
+
+---
+title: "NA : MasKaret : les e-formations de l'Insee"
+---
+
+
+- **Description** : <p dir="ltr" style="text-align: left;">Bienvenue sur la plateforme de formation à distance de l'Insee.</p>
+<p dir="ltr" style="text-align: left;">Ouverte à tous les agents de l'Insee ou des SSM, vous y trouverez de multiples supports, répartis en 5 grandes catégories :</p>
+<p dir="ltr" style="text-align: left;"></p>
+<ol>
+<li>Mathématiques et Statistiques: 2 catégories pour découvrir et approfondir ses connaissances en statistique et tout ce dont vous aurez besoin pour bien commencer votre formation</li>
+<li>Informatique
+<ol>
+<li>Cefil R : Parcours de formation à R à distance</li>
+<li>Bureautique : suite de didacticiels vidéos sur la suite LibreOffice, Scribus, LimeSurvey</li>
+</ol>
+</li>
+<li>Economie et sciences sociale</li>
+<li>Connaissance de l'Insee : Ensemble des formations génériques autour de la découverte de l'Institut, ses métiers, son organisation, ses activités</li>
+<li>Formation métier : Espace réservé aux formations métiers en distanciel</li>
+</ol>
+<p></p>
+- **Nombre d'inscrits** : 0

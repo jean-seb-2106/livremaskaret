@@ -1,0 +1,14 @@
+
+---
+title: "CefilR : Manipuler les données en R : initiation"
+---
+
+
+- **Description** : <ol>
+<li><span style="font-size: 0.9375rem;">Indexation par position avec dplyr</span></li>
+<li><span style="font-size: 0.9375rem;">Indexation par condition avec dplyr</span></li>
+<li><span style="font-size: 0.9375rem;">Sélection et renommage de colonnes</span></li>
+<li><span style="font-size: 0.9375rem;">Filtrer et rechercher des doublons</span></li>
+</ol>
+<p><span style="font-size: 0.9375rem;">Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=5" target="_blank" rel="noopener">Faire ses premiers pas en R</a><br>Niveau de difficulté : <strong>1<br></strong>Durée :<strong> 15 heures <br></strong></span></p>
+- **Nombre d'inscrits** : 793

@@ -1,0 +1,17 @@
+---
+title: "Statistiques : Découvrir la statistique descriptive"
+---
+
+-   **Description** :
+
+    <ol>
+
+<li>Lecture de tableaux statistiques</li>
+
+<li>Vocabulaire statistique et tris à plat</li>
+
+</ol>
+
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=39">Revoir les fondamentaux en mathématiques</a><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>95 minutes</strong></p>
+
+-   **Nombre d'inscrits** : 152

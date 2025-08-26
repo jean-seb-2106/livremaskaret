@@ -1,0 +1,15 @@
+
+---
+title: "Calc : Utiliser les tables dynamiques avec Calc"
+---
+
+
+- **Description** : <ol>
+<li>Créer une table dynamique simple</li>
+<li>Modifier ou actualiser une table dynamique</li>
+<li>Extraire des données avec une table dynamique</li>
+<li>Calculer différents indicateurs statistiques</li>
+<li>Croiser des variables</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=56" target="_blank" rel="noopener">Débuter avec Calc</a><br>Niveau de difficulté : <strong>3</strong><br>Durée : <strong>1 heure</strong></p>
+- **Nombre d'inscrits** : 106

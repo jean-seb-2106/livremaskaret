@@ -1,0 +1,11 @@
+
+---
+title: "Calc : Mettre en forme un tableau avec Calc"
+---
+
+
+- **Description** : <ol>
+<li>Mise en forme d'un tableau</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=56" target="_blank" rel="noopener">Débuter avec Calc</a><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>35 minutes</strong></p>
+- **Nombre d'inscrits** : 106

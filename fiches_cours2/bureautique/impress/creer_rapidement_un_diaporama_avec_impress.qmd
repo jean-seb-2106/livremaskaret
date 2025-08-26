@@ -1,0 +1,12 @@
+
+---
+title: "Impress : Créer rapidement un diaporama avec Impress"
+---
+
+
+- **Description** : <ol>
+<li>Automatiser la création d'une présentation</li>
+<li>Utiliser un modèle de présentation Insee</li>
+</ol>
+<p>Prérequis : <strong>Aucun</strong><br>Niveau de difficulté : <strong>1</strong><br>Durée : <strong>35 minutes</strong></p>
+- **Nombre d'inscrits** : 99

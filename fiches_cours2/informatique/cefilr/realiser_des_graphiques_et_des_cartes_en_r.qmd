@@ -1,0 +1,15 @@
+
+---
+title: "CefilR : Réaliser des graphiques et des cartes en R"
+---
+
+
+- **Description** : <ol>
+<li>Premiers graphiques avec ggplot2</li>
+<li>Graphiques avancés avec ggplot2</li>
+<li>Habillage et fonctions avancées avec ggplot2</li>
+<li>Cartes avec sf et ggplot2</li>
+</ol>
+<p>Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=11" target="_blank" rel="noopener">Présenter les données en R</a><br>Niveau de difficulté : <strong>2<br></strong>Durée :<strong> 15 heures <br></strong></p>
+<p></p>
+- **Nombre d'inscrits** : 793

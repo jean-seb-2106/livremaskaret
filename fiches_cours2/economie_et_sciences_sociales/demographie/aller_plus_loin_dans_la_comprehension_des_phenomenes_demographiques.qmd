@@ -1,0 +1,12 @@
+
+---
+title: "Démographie : Aller plus loin dans la compréhension des phénomènes démographiques"
+---
+
+
+- **Description** : <ol>
+<li dir="ltr" style="text-align: left;">Les migrations de population</li>
+<li dir="ltr" style="text-align: left;">Les projections</li>
+</ol>
+<p dir="ltr" style="text-align: left;">Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=15" target="_blank" rel="noopener">découvrir les premiers concepts en démographie</a><br>Niveau de difficulté : <strong>2</strong><br>Durée : <strong>80 minutes<br></strong></p>
+- **Nombre d'inscrits** : 101

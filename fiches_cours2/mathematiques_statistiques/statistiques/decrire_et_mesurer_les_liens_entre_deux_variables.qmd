@@ -1,0 +1,13 @@
+
+---
+title: "Statistiques : Décrire et mesurer les liens entre deux variables"
+---
+
+
+- **Description** : <ol>
+<li dir="ltr" style="text-align: left;">Liens entre deux variables quantitatives</li>
+<li dir="ltr" style="text-align: left;">Liens entre deux variables qualitatives</li>
+<li dir="ltr" style="text-align: left;">Liens entre une variable quantitative et une variable qualitative</li>
+</ol>
+<p dir="ltr" style="text-align: left;">Prérequis : <a href="https://maskaret.cefil.fr/course/view.php?id=46" target="_blank" rel="noopener">Découvrir la statistique descriptive</a>, <a href="https://maskaret.cefil.fr/course/view.php?id=47" target="_blank" rel="noopener">Décrire une distribution statistique</a><br>Niveau de difficulté : <strong>2<br></strong>Durée : <strong>2 heures</strong></p>
+- **Nombre d'inscrits** : 137

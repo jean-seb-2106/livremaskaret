@@ -1,0 +1,14 @@
+
+---
+title: "Scribus : Mettre en page un document avec Scribus"
+---
+
+
+- **Description** : <ol>
+<li>Premiers pas</li>
+<li>Les styles</li>
+<li>Les illustrations</li>
+<li>Les filets</li>
+</ol>
+<p>Prérequis : <strong>Aucun</strong><br>Niveau de difficulté : <strong>2</strong><br>Durée :<strong> 1 heure 45 <br></strong></p>
+- **Nombre d'inscrits** : 96
